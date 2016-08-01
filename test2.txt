@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-ooWindows test von ssh git
-=======
-xxx
->>>>>>> dad516c398d02ed41ac0b275126c9dc92984826f
+git only
